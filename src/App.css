@@ -3,13 +3,13 @@
 }
 
 .App-logo {
-  height: 100vmin;
+  height: 50vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 500ms linear;
+    animation: App-logo-spin infinite 800ms linear;
   }
 }
 
@@ -27,6 +27,7 @@
 .App-link {
   color: #8261fb;
 }
+
 
 @keyframes App-logo-spin {
   from {
